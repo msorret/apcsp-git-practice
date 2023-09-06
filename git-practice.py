@@ -1,4 +1,5 @@
 first= "Deborah"
+middle = "Ines"
 last = "Orret"
-print("My name is", first, last)
+print("My name is", first, middle, last)
 
